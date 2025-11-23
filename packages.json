@@ -3,10 +3,6 @@
     {
       "package": "canregtools",
       "url": "https://github.com/gigu003/canregtools"
-    },
-    {
-      "package": "mypkg2",
-      "url": "https://github.com/gigu003/mypkg2"
     }
   ]
 }
