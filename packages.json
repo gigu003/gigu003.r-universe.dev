@@ -1,8 +1,6 @@
-{
-  "packages": [
+[
     {
-      "package": "canregtools",
-      "url": "https://github.com/gigu003/canregtools"
+        "package": "canregtools",
+        "url": "https://github.com/gigu003/canregtools"
     }
-  ]
-}
+]
