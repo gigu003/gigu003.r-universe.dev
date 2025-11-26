@@ -2,5 +2,9 @@
     {
         "package": "canregtools",
         "url": "https://github.com/gigu003/canregtools"
+    },
+    {
+        "package": "crformats",
+        "url": "https://github.com/gigu003/crformats"
     }
 ]
